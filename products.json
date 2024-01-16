@@ -1,0 +1,92 @@
+[
+  {
+    "title": "Macbook pro M1 16'",
+    "price": 1600,
+    "imgUrl": "https://i.pcmag.com/imagery/reviews/01LG7X66NKFgNRZSIDI1qsc-20..v1637766923.jpg",
+    "article": "861746",
+    "color": "silver",
+    "isFavourite": false,
+    "count": 0
+  },
+  {
+    "title": "Macbook pro M1 16'",
+    "price": 1500,
+    "imgUrl": "https://images.prom.ua/3427533087_w640_h640_noutbuk-apple-macbook.jpg",
+    "article": "861739",
+    "color": "space-grey",
+    "isFavourite": false,
+    "count": 0
+  },
+  {
+    "title": "Macbook pro M1 13'",
+    "price": 1200,
+    "imgUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/06/IMG_1134.jpeg",
+    "article": "813709",
+    "color": "silver",
+    "isFavourite": false,
+    "count": 0
+  },
+  {
+    "title": "Macbook pro M1 13'",
+    "price": 1150,
+    "imgUrl": "https://s.yimg.com/uu/api/res/1.2/qi8vdW0iSLBJWZUC9fv5Uw--~B/aD0xMzM0O3c9MjAwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2020-11/c8aea820-28a0-11eb-9f89-5ddd62987703.cf.jpg",
+    "article": "811720",
+    "color": "space-grey",
+    "isFavourite": false,
+    "count": 0
+  },
+  {
+    "title": "Mac mini M1",
+    "price": 900,
+    "imgUrl": "https://www.macworld.com/wp-content/uploads/2023/10/m1-mac-mini-angle-100867263-orig-1.jpg?quality=50&strip=all",
+    "article": "780720",
+    "color": "silver",
+    "isFavourite": false,
+    "count": 0
+  },
+  {
+    "title": "iMac 2021",
+    "price": 1500,
+    "imgUrl": "https://hotline.ua/img/tx/276/2763425895.jpg",
+    "article": "089720",
+    "color": "silver",
+    "isFavourite": false,
+    "count": 0
+  },
+  {
+    "title": "iMac 2021",
+    "price": 1500,
+    "imgUrl": "https://g-store.com.ua/image/cache/catalog/allprodvar/21208-1200x1200.jpg",
+    "article": "019720",
+    "color": "pink",
+    "isFavourite": false,
+    "count": 0
+  },
+  {
+    "title": "iMac 2021",
+    "price": 1500,
+    "imgUrl": "https://g-store.com.ua/image/cache/catalog/allprodvar/21211-1200x1200.jpg",
+    "article": "119720",
+    "color": "purple",
+    "isFavourite": false,
+    "count": 0
+  },
+  {
+    "title": "iMac 2021",
+    "price": 1500,
+    "imgUrl": "https://files.foxtrot.com.ua/PhotoNew/img_0_1332_3295_0_1_X3OiDl.jpg",
+    "article": "119729",
+    "color": "yellow",
+    "isFavourite": false,
+    "count": 0
+  },
+  {
+    "title": "iMac 2021",
+    "price": 1500,
+    "imgUrl": "https://storeinua.com/image/cache/catalog/image/cache/catalog/2023/11-2023/iMac/apple-imac-24-m3-8gb-256gb-green-2023-mqra3-1-min-800x800.webp",
+    "article": "119229",
+    "color": "green",
+    "isFavourite": false,
+    "count": 0
+  }
+]
